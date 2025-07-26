@@ -1,7 +1,7 @@
-# Hi there, I'm Kavyam Singh 👋
+# Hi techies, I'm Kavyam Singh 👋
 
+💻 **SolanaDeveloper | Vibe Coder**
 🎓 **Student at IIT Ropar**  
-💻 **Passionate Developer | Vibe Coder**
 
 ---
 
@@ -14,14 +14,14 @@
 
 ---
 
-## 🔥 Pinned Projects
+## 🔥 Proof Of Work
 
-- **Q2_25_Builder_Kavyam** : TypeScript
+- **Bridge-fi** : TypeScript
 - **SPL-TERMINAL** : Rust  
 - **stablecoin** : Rust  
 - **Full-Stack-Project** : JavaScript
 
-*Explore my repositories and see more details!*
+*Explore my repositories and see more!*
 
 ---
 
