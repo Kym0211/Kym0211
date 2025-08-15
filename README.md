@@ -1,18 +1,10 @@
 # Hi techies, I'm Kavyam Singh 👋
 
-💻 **Solana Developer | Vibe Coder**
+💻 **Solana Developer |** 
 🎓 **Student at IIT Ropar**  
 
 ---
 
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
-<!-- Add more badges as needed -->
-
----
 
 ## 🔥 Proof Of WorK
 
