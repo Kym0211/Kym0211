@@ -21,13 +21,29 @@
 - **stablecoin** : Rust  
 - **Full-Stack-Project** : JavaScript
 
+|                                   **Runtime**                                  |
+|--------------------------------------------------------------------------------|
+|[Custom-Syscall](https://github.com/Kym0211/custom-syscall)                     |
+|[Custom-Sysvar](https://github.com/Kym0211/custom-sysvar)                       |
+|[Rollup-Stub](https://github.com/Kym0211/rollup-stub)                           | 
+|--------------------------------------------------------------------------------|
+|                               **Smart Contracts**                              |
+|--------------------------------------------------------------------------------|
+|[OracleMind](https://github.com/Kym0211/oraclemind-program)                     |
+|[Bridge-fi](https://github.com/Kym0211/Q2_25_Builder_Kavyam/tree/main/bridge-fi)|
+|[StableCoin](https://github.com/Kym0211/stableCoin)        |
+|--------------------------------------------------------------------------------|
+|                                **Full Stack**                                  |
+|--------------------------------------------------------------------------------|
+|[OracleMind](https://github.com/Kym0211/oraclemind)                             |
+|[FirkiMsg](https://github.com/Kym0211/Mystery-msg--NextJs-Full-Stack-Project)   |
+|--------------------------------------------------------------------------------|
+|                                   **Misc**                                     |
+|--------------------------------------------------------------------------------|
+|[Spl-Terminal](https://github.com/Kym0211/spl-terminal)                         |
+|[FirkiMsg](https://github.com/Kym0211/Mystery-msg--NextJs-Full-Stack-Project)   |
+
 *Explore my repositories and see more!*
-
----
-
-## 📊 GitHub Stats
-
-![Kym0211's GitHub contribution graph](https://github.com/Kym0211/github-contribution-graph/blob/main/github-contribution-graph.svg)
 
 ---
 
