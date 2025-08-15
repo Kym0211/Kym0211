@@ -1,6 +1,6 @@
 # Hi techies, I'm Kavyam Singh 👋
 
-💻 **SolanaDeveloper | Vibe Coder**
+💻 **Solana Developer | Vibe Coder**
 🎓 **Student at IIT Ropar**  
 
 ---
@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-![Kym0211's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kym0211&show_icons=true&theme=default)
+![Kym0211's GitHub contribution graph](https://github.com/Kym0211/github-contribution-graph/blob/main/github-contribution-graph.svg)
 
 ---
 
