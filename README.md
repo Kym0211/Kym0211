@@ -23,18 +23,15 @@
 | [Rollup-Stub](https://github.com/Kym0211/rollup-stub)            |
 |                                                                  |
 |                        **Smart Contracts**                       |
-|:----------------------------------------------------------------:|
 | [OracleMind](https://github.com/Kym0211/oraclemind-program)      |
 | [Bridge-fi](https://github.com/Kym0211/Q2_25_Builder_Kavyam/tree/main/bridge-fi) |
 | [StableCoin](https://github.com/Kym0211/stableCoin)              |
 |                                                                  |
 |                          **Full Stack**                          |
-|:----------------------------------------------------------------:|
 | [OracleMind](https://github.com/Kym0211/oraclemind)              |
 | [FirkiMsg](https://github.com/Kym0211/Mystery-msg--NextJs-Full-Stack-Project) |
 |                                                                  |
 |                             **Misc**                             |
-|:----------------------------------------------------------------:|
 | [Spl-Terminal](https://github.com/Kym0211/spl-terminal)          |
 
 
