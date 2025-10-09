@@ -18,6 +18,7 @@
 |---|---|---|
 | **[Custom Syscall](https://github.com/Kym0211/custom-syscall)** | Built a custom syscall for the Agave validator to fetch multiple sysvars in one call, improving on-chain efficiency. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) |
 | **[Custom Sysvar](https://github.com/Kym0211/custom-sysvar)** | Developed a custom sysvar to extend Solana's runtime, making a "GM GM" greeting accessible to on-chain programs. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) |
+| **[Jito BAM Explorer](https://github.com/Kym0211/bam_transaction_explorer)** | A real-time backend service to monitor Jito blocks and detect potential MEV activity on Solana. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[Rollup Stub](https://github.com/Kym0211/rollup_stub)** | An Anchor program that stores Merkle roots on-chain, reducing storage needs for off-chain state verification. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-blue?style=flat-square) |
 
 
